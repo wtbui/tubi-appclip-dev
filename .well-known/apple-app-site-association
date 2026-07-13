@@ -1,0 +1,9 @@
+{
+  "appclips": {
+    "apps": ["3RT6Z533P8.com.adrise.tubitv.dev.Clip"],
+    "components": [
+      { "/": "/movies/*" },
+      { "/": "/tv-shows/*" }
+    ]
+  }
+}
