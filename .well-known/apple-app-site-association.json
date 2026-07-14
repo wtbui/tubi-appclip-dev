@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["3RT6Z533P8.com.adrise.tubitv.dev"],
+        "components": [
+          { "/": "/movies/*" },
+          { "/": "/tv-shows/*" }
+        ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": ["3RT6Z533P8.com.adrise.tubitv.dev.app-clip-detail-page"]
+  }
+}
